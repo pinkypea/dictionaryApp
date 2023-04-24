@@ -1,0 +1,182 @@
+able	có tài
+abandon	từ bỏ
+about	khoảng, về
+above	ở trên, lên trên
+act	hành động, hành vi
+add	cộng, thêm vào
+after	đằng sau, sau khi
+again	lại, lần nữa
+age	tuổi
+agree	đồng ý
+and	và
+area	diện tích, bề mặt
+art	nghệ thuật, mĩ thuật
+ask	hỏi
+baby	đứa trẻ mới sinh
+bad	xấu, tồi
+ball	quả bóng
+base	cơ cở, cơ bản
+beauty	vẻ đẹp
+bed	cái giường
+before	trước, đằng trước
+begin	bắt đầu
+big	to, lớn
+book	sách
+boy	con trai
+build	xây dựng
+call	gọi
+can	có thể
+car	xe hơi
+cell	ô, ngăn
+cent	đồng xu
+chair	ghế
+chart	đồ thị
+clock	đồng hồ
+close	đóng
+cool	mát mẻ
+count	đếm, tính
+dad	bố, cha
+day	ngày
+dead	chết
+develop	phát triển
+dictionary	từ điển
+divide	chia, phân ra
+doctor	bác sĩ
+dog	chó
+draw	vẽ, kéo
+drive	lái, đua xe
+early	sớm
+eat	ăn
+end	giới hạn, sự kết thúc
+enough	đủ
+event	sự kiện
+every	mỗi, mọi
+face	mặt, thể hiện
+far	xa
+father	cha, bố
+feel	cảm thấy
+few	ít, vài, một ít
+flower	hoa, bông
+fly	bay
+game	trò chơi
+gas	khí
+grass	cỏ, bãi cỏ
+grow	mọc lên
+hair	tóc
+happy	vui, hạnh phúc
+have	có
+heavy	nặng
+hello	xin chào
+here	đây, ở đây
+home	nhà
+hot	nóng
+if	nếu, nếu như
+iron	sắt
+is	là
+job	việc, việc làm
+join	gia nhập
+keep	giữ, giữ lại
+kill	giết
+king	vua
+lake	hồ
+law	luật
+length	chiều dài, độ dài
+level	trình độ, cấp
+listen	nghe
+live	sống
+love	yêu
+machine	máy móc
+man	đàn ông
+market	chợ, thị trường
+morning	buổi sáng
+mother	mẹ
+music	nhạc, âm nhạc
+name	tên, đặt tên
+nature	thiên nhiên
+no	không
+nose	mũi
+now	bây giờ, hiện tại
+of	của
+office	cơ quan, văn phòng
+on	trên
+one	một
+other	khác
+our	của chúng ta
+out	ngoài, ra ngoài
+page	trang
+parent	cha, mẹ
+pay	trả, thanh toán
+play	chơi
+post	thư, bưu kiện
+power	khả năng, tài năng
+pull	lôi, kéo
+put	đặt, để
+quick	nhanh
+quite	hoàn toàn
+rain	mưa, cơn mưa
+ran	chạy
+read	đọc
+red	đỏ
+result	kết quả
+room	phòng
+root	gốc, rễ
+save	lưu
+say	nói
+school	trường học
+score	điểm
+see	nhìn, quan sát
+seven	bảy
+shoe	giày
+shop	cửa hàng
+sing	hát
+sister	chị, em gái
+sit	ngồi
+son	con trai
+song	bài hát
+speed	tốc độ
+spring	mùa xuân
+stop	dừng, nghỉ
+street	phố
+subtract	trừ
+sugar	đường
+swim	bơi lội
+table	cái bàn
+tall	cao
+tell	nói, nói với
+than	hơn
+there	ở nơi đó
+thin	mỏng
+think	nghĩ, suy nghĩ
+to	theo hướng
+tone	tiếng, giọng
+too	cũng
+town	thị trấn, thị xã
+tree	cây
+true	đúng
+under	dưới, ở dưới
+us	chúng tôi
+use	sử dụng
+value	giá trị
+very	rất, lắm
+view	tầm nhìn
+village	làng, xã
+voice	tiếng, giọng nói
+wall	tường, vách
+want	muốn
+wash	rửa giặt
+weather	thời tiết
+week	tuần
+what	gì, thế nào
+when	khi, lúc nào
+where	đâu, ở đâu
+which	nào, bất cứ nào
+who	ai, người nào
+whose	của ai
+why	tại sao, vì sao
+wind	gió
+window	cửa sổ
+woman	đàn bà, phụ nữ
+would	sẽ
+year	năm
+yes	vâng, dạ, phải
+young	trẻ tuổi, thiếu niên
